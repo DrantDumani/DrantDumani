@@ -1,5 +1,5 @@
 # Hello. I'm Darnell!
 
-I'm a former ferry deckhand / aspiring programmer with a strong interest in web / game development. Teaching myself how to code and working on projects has made me fairly proficient with JavaScript, SASS, and React. I'm excited to see how far I can go.
+I'm a former ferry deckhand / current programmer with a strong interest in web / game development. I've worked on a number of projects that have allowed me to learn how to use JavaScript, React, NodeJS, Express, HTML, SCSS, MongoDB, and much more in order to bring creative projects to life.
 
-If you're interested in collaborating together on a web application or a game (or both!), please feel free to reach out to me on [twitter](https://twitter.com/elemeandor)
+Let me know if you're interested in collaborating on a web app, or a video game!
